@@ -4,13 +4,12 @@ version: 0.5.1
 homepage: https://github.com/tykann/kpostal
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=2.0.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  flutter_inappwebview: ^5.4.3+7
+  flutter_inappwebview: ^5.8.0
   geocoding: ^2.0.4
 
 dev_dependencies:
